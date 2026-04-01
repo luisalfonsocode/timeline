@@ -635,7 +635,6 @@ def render_timeline_screen() -> None:
                 "elige una o más columnas en «Columnas para **filtros**»."
             )
         else:
-            st.caption("“(Todos)” no aplica restricción en ese campo.")
             ncols = min(5, len(fc_list))
 
             def _bars_with_other_filters(exclude_fc: str) -> pd.DataFrame:
@@ -691,27 +690,16 @@ def render_timeline_screen() -> None:
     chart_df = plot_df.assign(_y_plot=y_labels, _y_slot=y_slots)
     max_y_chars = int(chart_df["_y_plot"].astype(str).str.len().max()) or 8
     margin_l = _timeline_margin_left_px(max_y_chars)
-    t_all = pd.to_datetime(
-        pd.concat([chart_df["bar_start"], chart_df["bar_end"]], ignore_index=True),
-        errors="coerce",
-    )
-    t_ok = t_all.dropna()
-    has_time = False
-    if len(t_ok) > 0:
-        has_time = bool(
-            (t_ok.dt.hour != 0).any()
-            or (t_ok.dt.minute != 0).any()
-            or (t_ok.dt.second != 0).any()
-        )
-    x_tick_fmt = "%d %b %Y %H:%M" if has_time else "%d %b %Y"
+    # bar_start / bar_end son siempre fecha calendario (medianoche); eje e hover sin hora.
+    x_tick_fmt = "%d %b %Y"
 
     def _hover_lines(r: pd.Series) -> str:
-        s = pd.Timestamp(r["bar_start"])
-        e = pd.Timestamp(r["bar_end"])
+        s = pd.Timestamp(r["bar_start"]).normalize()
+        e = pd.Timestamp(r["bar_end"]).normalize()
         return (
             f"<b>{r['_y_axis']}</b><br>"
-            f"Inicio: {s.strftime('%Y-%m-%d %H:%M:%S')}<br>"
-            f"Fin: {e.strftime('%Y-%m-%d %H:%M:%S')}"
+            f"Inicio: {s.strftime('%Y-%m-%d')}<br>"
+            f"Fin: {e.strftime('%Y-%m-%d')}"
         )
 
     h = _timeline_fig_height_px(n_vis)

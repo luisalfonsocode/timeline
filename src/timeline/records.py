@@ -5,24 +5,38 @@ import pandas as pd
 from timeline.config import TimelineColumnMapping
 
 
-def _coerce_datetime(series: pd.Series) -> pd.Series:
-    if pd.api.types.is_datetime64_any_dtype(series):
-        return series
-    return pd.to_datetime(series, errors="coerce", utc=False)
+def _coerce_bar_dates(series: pd.Series) -> pd.Series:
+    """
+    Convierte la columna a datetime **solo fecha**: tras parsear, se normaliza a medianoche
+    (sin hora ni minuto ni segundo). Así el timeline no depende de la fracción de día en el CSV.
+    """
+    s = series.reset_index(drop=True)
+    if pd.api.types.is_datetime64_any_dtype(s):
+        parsed = pd.to_datetime(s, errors="coerce")
+    elif pd.api.types.is_numeric_dtype(s):
+        parsed = pd.to_datetime(s, errors="coerce", utc=False)
+    else:
+        # Evita el warning de inferencia fila a fila con formatos de texto heterogéneos (pandas 2+).
+        parsed = pd.to_datetime(s, errors="coerce", utc=False, format="mixed")
+
+    tz = getattr(parsed.dtype, "tz", None)
+    if tz is not None:
+        parsed = parsed.dt.tz_convert("UTC").dt.tz_localize(None)
+    return parsed.dt.normalize()
 
 
 def build_bar_frame(df: pd.DataFrame, mapping: TimelineColumnMapping) -> pd.DataFrame:
     """
     Devuelve un DataFrame con columnas canónicas para pintar barras y filtrar.
 
-    - ``bar_start``, ``bar_end``: timestamps
+    - ``bar_start``, ``bar_end``: fechas (datetime naive a medianoche; sin componente horaria)
     - ``bar_label``: texto (o vacío)
     - Una columna por cada ``group_columns`` con los mismos nombres que en el origen
     - ``_row_id``: índice original para trazabilidad
     """
     out = pd.DataFrame({"_row_id": range(len(df))})
-    out["bar_start"] = _coerce_datetime(df[mapping.start_column].reset_index(drop=True))
-    out["bar_end"] = _coerce_datetime(df[mapping.end_column].reset_index(drop=True))
+    out["bar_start"] = _coerce_bar_dates(df[mapping.start_column])
+    out["bar_end"] = _coerce_bar_dates(df[mapping.end_column])
 
     if mapping.label_column:
         out["bar_label"] = df[mapping.label_column].reset_index(drop=True).astype(str)
