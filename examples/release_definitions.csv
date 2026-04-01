@@ -1,0 +1,13 @@
+release_name,release_quarter,release_squad,release_tribu
+Release 24.1,Q1-2025,Plataforma,Servicios Core
+Release 24.2,Q1-2025,Experiencia Cliente,Digital
+Release 24.3,Q2-2025,Datos,Analytics
+Release 24.4,Q2-2025,Infra,Servicios Core
+Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+Release 24.6,Q3-2025,Pagos,Digital
+Release 24.7,Q4-2025,Plataforma,Operaciones
+Release 24.8,Q4-2025,Experiencia Cliente,Growth
+Release 24.9,Q1-2025,Datos,Analytics
+Release 24.10,Q2-2025,Ciberseguridad,Growth
+Release 24.11,Q3-2025,Infra,Operaciones
+Release 24.12,Q4-2025,Pagos,Analytics

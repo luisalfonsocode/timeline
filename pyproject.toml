@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "timeline"
+version = "0.1.0"
+description = "Genera timelines a partir de registros (CSV u otros), con mapeo interactivo de columnas."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "pandas>=2.0",
+    "rich>=13.0",
+]
+
+[project.optional-dependencies]
+plot = ["plotly>=5.0"]
+ui = ["plotly>=5.0", "streamlit>=1.33"]
+
+[tool.setuptools]
+package-dir = { "" = "src" }
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[project.scripts]
+timeline = "timeline.cli:main"
+timeline-app = "timeline.webapp:launch"

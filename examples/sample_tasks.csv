@@ -1,0 +1,2001 @@
+issue_key,issue_inicio,issue_fin,release_name,release_quarter,release_squad,release_tribu
+PROJ-10000,2025-09-06,2025-09-27,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-10001,2025-10-15,2025-11-11,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10002,2025-03-28,2025-05-21,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10003,2025-02-09,2025-10-30,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10004,2025-12-13,2025-12-26,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10005,2025-08-18,2025-11-08,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-10006,2025-01-12,2025-02-17,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10007,2025-04-01,2025-10-14,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10008,2025-01-11,2025-08-17,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10009,2025-10-06,2025-12-08,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10010,2025-07-31,2025-10-21,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10011,2025-06-24,2025-10-16,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10012,2025-11-11,2025-11-11,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10013,2025-09-29,2025-11-09,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10014,2025-04-18,2025-06-18,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10015,2025-10-24,2025-11-26,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10016,2025-02-06,2025-07-03,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10017,2025-05-20,2025-09-30,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10018,2025-04-13,2025-04-30,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10019,2025-06-28,2025-10-10,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10020,2025-12-25,2025-12-29,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10021,2025-08-03,2025-09-29,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10022,2025-08-29,2025-11-07,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10023,2025-03-16,2025-12-15,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10024,2025-01-18,2025-10-02,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10025,2025-10-28,2025-11-25,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10026,2025-11-29,2025-12-10,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10027,2025-05-28,2025-09-13,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10028,2025-09-04,2025-11-14,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10029,2025-05-24,2025-10-09,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10030,2025-09-18,2025-11-09,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10031,2025-12-30,2025-12-31,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10032,2025-01-28,2025-09-22,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10033,2025-03-08,2025-10-01,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10034,2025-04-06,2025-06-08,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10035,2025-05-28,2025-09-10,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10036,2025-09-25,2025-11-06,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10037,2025-05-06,2025-05-28,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10038,2025-11-16,2025-11-17,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10039,2025-06-05,2025-09-17,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10040,2025-03-23,2025-10-30,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10041,2025-05-03,2025-07-24,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10042,2025-07-13,2025-09-28,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10043,2025-06-28,2025-07-25,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10044,2025-02-24,2025-05-31,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10045,2025-08-07,2025-11-19,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10046,2025-10-18,2025-12-13,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10047,2025-12-15,2025-12-29,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10048,2025-05-21,2025-08-14,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10049,2025-07-17,2025-10-21,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10050,2025-10-21,2025-10-26,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10051,2025-03-01,2025-10-31,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10052,2025-11-04,2025-12-15,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10053,2025-01-25,2025-06-24,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10054,2025-08-20,2025-11-19,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10055,2025-04-08,2025-11-09,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-10056,2025-09-22,2025-10-14,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10057,2025-12-10,2025-12-23,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10058,2025-10-26,2025-12-27,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10059,2025-02-13,2025-06-07,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10060,2025-03-03,2025-08-26,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-10061,2025-10-08,2025-12-17,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10062,2025-07-14,2025-12-09,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10063,2025-07-17,2025-08-06,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10064,2025-04-26,2025-12-31,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10065,2025-08-25,2025-10-03,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10066,2025-05-26,2025-07-27,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10067,2025-10-30,2025-12-20,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-10068,2025-08-21,2025-10-23,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10069,2025-01-08,2025-02-21,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10070,2025-12-08,2025-12-28,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10071,2025-04-03,2025-04-26,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10072,2025-12-07,2025-12-21,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10073,2025-02-03,2025-11-14,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10074,2025-11-13,2025-11-17,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10075,2025-10-25,2025-11-06,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10076,2025-09-14,2025-12-15,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10077,2025-03-06,2025-06-17,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10078,2025-12-05,2025-12-26,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10079,2025-12-27,2025-12-31,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10080,2025-09-25,2025-10-15,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10081,2025-05-02,2025-10-04,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10082,2025-09-10,2025-11-21,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10083,2025-12-16,2025-12-28,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10084,2025-02-16,2025-05-24,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10085,2025-01-25,2025-06-06,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-10086,2025-08-17,2025-12-03,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10087,2025-08-17,2025-09-29,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-10088,2025-01-28,2025-10-30,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10089,2025-01-23,2025-04-22,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10090,2025-12-18,2025-12-19,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10091,2025-01-28,2025-08-16,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10092,2025-04-19,2025-10-24,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10093,2025-07-29,2025-08-24,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10094,2025-12-30,2025-12-31,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10095,2025-11-01,2025-12-17,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10096,2025-03-15,2025-04-21,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10097,2025-09-13,2025-12-06,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10098,2025-06-14,2025-11-21,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10099,2025-12-02,2025-12-05,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10100,2025-09-11,2025-09-30,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-10101,2025-06-06,2025-10-16,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10102,2025-04-07,2025-06-20,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10103,2025-07-28,2025-10-23,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10104,2025-06-13,2025-08-24,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10105,2025-06-29,2025-08-17,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10106,2025-06-22,2025-11-25,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10107,2025-02-08,2025-02-27,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10108,2025-07-29,2025-08-01,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10109,2025-12-26,2025-12-31,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10110,2025-03-06,2025-08-11,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10111,2025-07-06,2025-08-17,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10112,2025-12-17,2025-12-18,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10113,2025-05-28,2025-05-29,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10114,2025-04-13,2025-10-07,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10115,2025-06-14,2025-12-20,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10116,2025-03-15,2025-07-08,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10117,2025-01-23,2025-09-05,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10118,2025-07-30,2025-08-11,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10119,2025-05-02,2025-05-24,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-10120,2025-08-15,2025-11-16,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10121,2025-12-24,2025-12-30,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10122,2025-01-23,2025-08-08,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10123,2025-11-27,2025-12-06,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10124,2025-08-20,2025-09-02,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10125,2025-12-01,2025-12-13,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10126,2025-02-16,2025-09-25,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10127,2025-08-13,2025-12-07,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-10128,2025-08-29,2025-09-14,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10129,2025-09-13,2025-12-23,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10130,2025-12-30,2025-12-30,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10131,2025-09-18,2025-11-18,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10132,2025-04-14,2025-09-14,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10133,2025-09-18,2025-11-16,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10134,2025-05-03,2025-05-31,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-10135,2025-06-27,2025-10-26,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10136,2025-02-08,2025-03-09,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10137,2025-03-24,2025-10-07,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10138,2025-02-21,2025-07-06,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10139,2025-12-08,2025-12-14,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10140,2025-04-21,2025-06-21,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10141,2025-11-20,2025-12-17,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10142,2025-04-28,2025-12-22,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10143,2025-07-25,2025-07-26,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10144,2025-11-14,2025-12-11,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10145,2025-12-28,2025-12-29,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10146,2025-04-13,2025-05-28,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10147,2025-10-16,2025-12-09,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10148,2025-04-16,2025-08-04,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10149,2025-03-23,2025-12-27,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10150,2025-03-21,2025-12-13,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10151,2025-11-28,2025-12-11,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10152,2025-07-09,2025-08-27,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-10153,2025-02-05,2025-10-10,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10154,2025-11-19,2025-12-02,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-10155,2025-01-02,2025-05-11,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10156,2025-09-05,2025-10-26,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10157,2025-10-15,2025-11-27,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10158,2025-10-02,2025-11-12,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10159,2025-01-04,2025-02-17,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10160,2025-12-09,2025-12-26,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10161,2025-07-31,2025-08-07,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10162,2025-08-15,2025-11-30,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10163,2025-06-16,2025-08-05,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-10164,2025-04-30,2025-09-19,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-10165,2025-12-16,2025-12-24,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10166,2025-09-22,2025-11-10,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10167,2025-02-09,2025-06-27,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10168,2025-12-10,2025-12-31,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10169,2025-08-30,2025-09-29,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10170,2025-12-02,2025-12-10,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10171,2025-12-09,2025-12-19,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-10172,2025-03-11,2025-12-22,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10173,2025-10-31,2025-12-10,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10174,2025-12-02,2025-12-14,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10175,2025-03-03,2025-12-01,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10176,2025-05-29,2025-06-13,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10177,2025-03-28,2025-06-13,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10178,2025-05-16,2025-09-12,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10179,2025-03-28,2025-04-06,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10180,2025-03-17,2025-08-18,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10181,2025-04-19,2025-05-16,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10182,2025-05-17,2025-12-01,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10183,2025-09-21,2025-11-25,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-10184,2025-02-14,2025-05-27,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10185,2025-08-14,2025-10-05,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-10186,2025-02-12,2025-10-01,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10187,2025-05-15,2025-09-14,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10188,2025-08-24,2025-12-01,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10189,2025-05-30,2025-08-12,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10190,2025-01-18,2025-10-20,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10191,2025-01-01,2025-07-22,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10192,2025-09-24,2025-11-02,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10193,2025-06-17,2025-07-14,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10194,2025-12-24,2025-12-28,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10195,2025-05-02,2025-06-20,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10196,2025-12-16,2025-12-23,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10197,2025-05-01,2025-10-06,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10198,2025-06-06,2025-09-29,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10199,2025-02-19,2025-05-04,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10200,2025-09-16,2025-11-28,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10201,2025-10-18,2025-11-04,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10202,2025-08-10,2025-10-07,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10203,2025-08-01,2025-08-01,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10204,2025-04-22,2025-07-13,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10205,2025-11-02,2025-12-28,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10206,2025-09-12,2025-11-13,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10207,2025-06-21,2025-09-15,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10208,2025-03-24,2025-10-09,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10209,2025-11-05,2025-11-21,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10210,2025-02-02,2025-05-24,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10211,2025-09-15,2025-11-19,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10212,2025-11-14,2025-12-31,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10213,2025-09-19,2025-11-18,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10214,2025-11-10,2025-11-29,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10215,2025-01-10,2025-01-28,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10216,2025-07-04,2025-10-31,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10217,2025-06-26,2025-09-15,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10218,2025-08-12,2025-09-19,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10219,2025-09-28,2025-11-04,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10220,2025-06-05,2025-09-07,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10221,2025-09-12,2025-09-13,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10222,2025-10-30,2025-12-10,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10223,2025-03-10,2025-12-05,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10224,2025-06-30,2025-07-10,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10225,2025-04-07,2025-05-24,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10226,2025-02-21,2025-12-30,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10227,2025-09-17,2025-12-29,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10228,2025-08-20,2025-10-20,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10229,2025-08-26,2025-12-02,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10230,2025-11-19,2025-12-16,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10231,2025-12-15,2025-12-19,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10232,2025-12-01,2025-12-24,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10233,2025-04-11,2025-07-16,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10234,2025-04-18,2025-11-07,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10235,2025-09-01,2025-10-17,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10236,2025-06-20,2025-07-05,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10237,2025-04-21,2025-07-22,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10238,2025-05-11,2025-09-12,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10239,2025-02-01,2025-03-27,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10240,2025-03-31,2025-08-27,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10241,2025-03-01,2025-11-30,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10242,2025-01-25,2025-07-06,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10243,2025-05-09,2025-12-06,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10244,2025-06-11,2025-07-05,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10245,2025-11-20,2025-12-10,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10246,2025-12-18,2025-12-18,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10247,2025-05-28,2025-11-29,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-10248,2025-05-17,2025-09-10,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10249,2025-11-28,2025-12-18,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10250,2025-10-18,2025-12-28,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10251,2025-11-07,2025-11-29,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10252,2025-03-27,2025-07-11,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10253,2025-07-08,2025-07-14,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10254,2025-05-11,2025-10-15,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10255,2025-03-06,2025-09-03,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10256,2025-08-30,2025-12-12,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-10257,2025-12-19,2025-12-28,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10258,2025-08-08,2025-12-14,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-10259,2025-02-02,2025-10-10,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10260,2025-02-22,2025-08-21,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10261,2025-01-20,2025-05-01,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10262,2025-05-08,2025-07-29,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10263,2025-05-07,2025-09-16,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10264,2025-04-19,2025-09-29,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10265,2025-11-21,2025-11-25,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10266,2025-01-08,2025-10-26,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10267,2025-01-21,2025-06-06,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10268,2025-09-10,2025-09-23,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10269,2025-01-16,2025-11-05,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-10270,2025-04-07,2025-06-23,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-10271,2025-08-30,2025-09-28,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10272,2025-02-19,2025-08-21,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10273,2025-02-14,2025-09-21,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10274,2025-06-30,2025-11-13,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10275,2025-10-25,2025-11-30,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10276,2025-08-24,2025-12-20,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10277,2025-10-06,2025-10-18,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10278,2025-05-01,2025-06-12,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10279,2025-01-10,2025-05-12,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10280,2025-09-21,2025-12-02,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10281,2025-10-05,2025-10-24,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10282,2025-08-18,2025-12-31,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10283,2025-04-05,2025-05-14,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10284,2025-10-28,2025-11-26,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10285,2025-08-22,2025-09-14,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10286,2025-10-31,2025-11-04,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10287,2025-07-26,2025-10-18,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10288,2025-05-24,2025-06-20,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10289,2025-09-09,2025-11-14,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-10290,2025-11-26,2025-12-17,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10291,2025-02-10,2025-07-29,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10292,2025-09-04,2025-12-03,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10293,2025-03-01,2025-08-17,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10294,2025-10-12,2025-12-02,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10295,2025-04-15,2025-12-11,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10296,2025-10-28,2025-12-14,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10297,2025-06-19,2025-10-01,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10298,2025-11-27,2025-12-09,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10299,2025-04-19,2025-10-11,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10300,2025-10-19,2025-12-03,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10301,2025-08-26,2025-11-07,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10302,2025-01-12,2025-07-23,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10303,2025-03-12,2025-09-17,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10304,2025-05-18,2025-08-27,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10305,2025-04-19,2025-12-07,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10306,2025-12-08,2025-12-15,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10307,2025-01-04,2025-07-24,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10308,2025-02-03,2025-05-07,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10309,2025-06-07,2025-12-14,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10310,2025-10-22,2025-11-14,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10311,2025-07-04,2025-11-07,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10312,2025-07-10,2025-10-05,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-10313,2025-02-06,2025-05-31,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10314,2025-06-07,2025-09-09,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10315,2025-09-15,2025-11-26,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10316,2025-08-03,2025-11-15,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10317,2025-06-15,2025-10-21,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10318,2025-09-30,2025-11-14,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10319,2025-04-30,2025-08-05,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10320,2025-02-16,2025-11-23,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10321,2025-05-03,2025-06-18,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10322,2025-07-28,2025-12-23,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10323,2025-03-13,2025-05-27,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10324,2025-10-14,2025-11-30,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10325,2025-10-09,2025-12-05,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10326,2025-08-20,2025-10-14,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10327,2025-11-20,2025-11-29,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10328,2025-03-30,2025-08-17,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10329,2025-04-28,2025-05-03,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10330,2025-07-27,2025-08-21,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10331,2025-01-18,2025-02-08,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10332,2025-04-24,2025-06-12,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10333,2025-12-04,2025-12-28,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10334,2025-12-05,2025-12-06,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10335,2025-04-21,2025-10-20,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10336,2025-06-21,2025-08-26,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10337,2025-01-20,2025-04-29,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10338,2025-02-14,2025-12-30,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10339,2025-06-05,2025-12-13,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10340,2025-08-13,2025-12-13,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10341,2025-01-21,2025-03-21,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10342,2025-11-12,2025-12-11,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10343,2025-04-07,2025-05-23,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10344,2025-10-24,2025-12-04,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10345,2025-08-20,2025-12-18,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10346,2025-10-29,2025-12-18,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10347,2025-06-24,2025-12-18,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10348,2025-04-26,2025-12-11,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10349,2025-04-29,2025-12-06,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10350,2025-01-24,2025-09-18,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10351,2025-02-08,2025-12-01,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10352,2025-08-31,2025-10-11,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10353,2025-09-14,2025-09-30,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10354,2025-04-04,2025-06-10,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10355,2025-01-30,2025-03-31,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-10356,2025-06-08,2025-11-30,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10357,2025-08-19,2025-11-18,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10358,2025-01-13,2025-04-13,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10359,2025-10-02,2025-10-30,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10360,2025-11-30,2025-12-22,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10361,2025-09-24,2025-11-09,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10362,2025-11-02,2025-12-30,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10363,2025-11-09,2025-11-28,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10364,2025-02-14,2025-09-14,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10365,2025-09-09,2025-10-08,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10366,2025-11-18,2025-11-24,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10367,2025-01-24,2025-03-29,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10368,2025-08-20,2025-12-08,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10369,2025-06-20,2025-08-07,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10370,2025-09-25,2025-11-23,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10371,2025-06-06,2025-09-20,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10372,2025-07-29,2025-11-02,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10373,2025-02-01,2025-09-21,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-10374,2025-12-12,2025-12-22,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10375,2025-05-06,2025-12-26,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10376,2025-01-11,2025-02-15,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10377,2025-09-19,2025-09-23,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10378,2025-11-16,2025-11-29,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10379,2025-01-16,2025-11-08,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10380,2025-07-02,2025-10-11,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10381,2025-06-21,2025-12-16,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10382,2025-03-12,2025-10-25,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10383,2025-09-04,2025-12-09,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10384,2025-07-02,2025-09-08,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10385,2025-05-10,2025-09-12,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10386,2025-02-10,2025-04-14,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10387,2025-06-09,2025-12-19,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10388,2025-09-15,2025-12-02,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10389,2025-01-15,2025-07-10,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10390,2025-05-03,2025-08-09,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10391,2025-02-15,2025-12-12,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10392,2025-12-02,2025-12-27,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-10393,2025-09-13,2025-12-27,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10394,2025-06-10,2025-07-01,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10395,2025-07-21,2025-09-29,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10396,2025-10-21,2025-12-09,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10397,2025-06-21,2025-11-16,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-10398,2025-03-21,2025-07-02,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10399,2025-02-20,2025-06-12,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10400,2025-12-09,2025-12-26,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10401,2025-02-17,2025-02-28,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10402,2025-08-25,2025-10-10,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10403,2025-03-03,2025-07-02,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10404,2025-01-06,2025-08-08,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10405,2025-02-06,2025-05-04,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10406,2025-06-29,2025-12-30,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10407,2025-09-09,2025-10-09,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10408,2025-12-29,2025-12-31,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10409,2025-07-17,2025-12-01,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10410,2025-06-11,2025-12-15,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10411,2025-04-05,2025-09-30,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10412,2025-02-26,2025-07-25,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10413,2025-12-25,2025-12-31,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10414,2025-12-08,2025-12-11,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10415,2025-04-18,2025-09-26,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10416,2025-12-29,2025-12-31,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10417,2025-11-15,2025-11-15,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10418,2025-10-09,2025-11-07,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10419,2025-08-14,2025-12-20,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10420,2025-12-03,2025-12-10,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10421,2025-07-29,2025-10-31,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10422,2025-05-10,2025-12-10,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10423,2025-05-27,2025-11-20,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10424,2025-12-04,2025-12-13,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10425,2025-04-03,2025-11-11,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10426,2025-04-01,2025-09-08,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-10427,2025-05-04,2025-11-04,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10428,2025-12-21,2025-12-31,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10429,2025-05-30,2025-07-29,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10430,2025-01-15,2025-03-05,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10431,2025-08-18,2025-10-21,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10432,2025-12-06,2025-12-27,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10433,2025-07-24,2025-10-20,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-10434,2025-10-08,2025-10-22,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10435,2025-12-05,2025-12-12,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10436,2025-07-02,2025-12-01,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10437,2025-05-12,2025-10-13,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10438,2025-02-01,2025-12-28,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10439,2025-11-28,2025-12-30,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10440,2025-05-28,2025-09-28,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10441,2025-10-07,2025-12-19,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10442,2025-12-05,2025-12-07,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10443,2025-01-27,2025-04-28,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10444,2025-09-23,2025-11-18,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10445,2025-10-18,2025-10-26,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10446,2025-02-08,2025-11-30,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10447,2025-10-01,2025-12-25,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10448,2025-06-22,2025-07-24,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10449,2025-04-27,2025-05-08,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-10450,2025-05-06,2025-05-28,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10451,2025-05-20,2025-10-12,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10452,2025-02-26,2025-06-01,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10453,2025-06-10,2025-08-18,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10454,2025-03-09,2025-04-09,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10455,2025-12-05,2025-12-23,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10456,2025-09-23,2025-11-09,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10457,2025-12-21,2025-12-28,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10458,2025-04-01,2025-09-27,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10459,2025-04-09,2025-10-05,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10460,2025-09-16,2025-09-18,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10461,2025-12-16,2025-12-23,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10462,2025-08-01,2025-08-31,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10463,2025-06-21,2025-12-22,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10464,2025-08-17,2025-10-14,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10465,2025-06-14,2025-09-19,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10466,2025-11-25,2025-12-09,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10467,2025-05-30,2025-12-04,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10468,2025-04-03,2025-08-29,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10469,2025-05-20,2025-12-29,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10470,2025-09-29,2025-10-28,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-10471,2025-11-19,2025-12-21,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10472,2025-04-17,2025-04-20,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10473,2025-12-02,2025-12-05,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10474,2025-10-17,2025-12-04,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10475,2025-10-29,2025-11-20,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10476,2025-11-08,2025-12-12,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10477,2025-09-05,2025-10-12,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10478,2025-04-08,2025-12-27,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10479,2025-10-26,2025-12-29,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10480,2025-11-22,2025-11-29,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10481,2025-02-07,2025-10-09,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10482,2025-01-16,2025-05-16,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10483,2025-01-13,2025-08-27,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10484,2025-10-12,2025-10-25,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10485,2025-12-20,2025-12-23,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10486,2025-10-18,2025-11-27,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10487,2025-03-19,2025-05-10,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10488,2025-12-07,2025-12-25,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10489,2025-07-14,2025-09-05,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10490,2025-04-10,2025-10-14,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10491,2025-10-17,2025-11-19,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10492,2025-07-01,2025-07-16,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10493,2025-10-20,2025-11-11,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10494,2025-10-09,2025-12-13,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10495,2025-11-25,2025-12-22,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10496,2025-02-05,2025-12-09,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10497,2025-01-06,2025-04-19,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10498,2025-02-17,2025-08-13,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10499,2025-09-19,2025-11-09,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10500,2025-05-28,2025-10-20,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10501,2025-09-20,2025-11-04,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10502,2025-01-10,2025-09-08,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10503,2025-05-08,2025-12-31,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10504,2025-09-09,2025-09-21,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10505,2025-11-16,2025-12-09,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10506,2025-04-28,2025-10-03,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10507,2025-02-24,2025-03-13,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-10508,2025-04-29,2025-11-06,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10509,2025-02-07,2025-05-09,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10510,2025-02-22,2025-07-23,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10511,2025-05-25,2025-12-20,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10512,2025-08-17,2025-09-16,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10513,2025-09-12,2025-10-01,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10514,2025-08-28,2025-11-15,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10515,2025-01-13,2025-10-08,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10516,2025-03-26,2025-09-14,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10517,2025-04-02,2025-08-21,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10518,2025-09-24,2025-12-04,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10519,2025-12-17,2025-12-25,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-10520,2025-06-04,2025-09-19,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10521,2025-02-17,2025-08-13,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10522,2025-09-15,2025-10-26,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10523,2025-09-06,2025-12-31,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-10524,2025-01-20,2025-11-22,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10525,2025-04-05,2025-05-24,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10526,2025-03-21,2025-04-17,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10527,2025-03-22,2025-11-05,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10528,2025-11-12,2025-12-05,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10529,2025-10-28,2025-11-12,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10530,2025-01-02,2025-04-19,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10531,2025-02-20,2025-09-18,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10532,2025-11-07,2025-11-24,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10533,2025-09-14,2025-09-19,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10534,2025-01-06,2025-05-25,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10535,2025-08-17,2025-10-19,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-10536,2025-03-09,2025-06-20,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-10537,2025-02-19,2025-12-04,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10538,2025-07-24,2025-08-15,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10539,2025-01-25,2025-07-29,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10540,2025-10-30,2025-12-04,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10541,2025-08-19,2025-09-09,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10542,2025-07-15,2025-08-27,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10543,2025-01-17,2025-10-27,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10544,2025-07-22,2025-09-19,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10545,2025-09-07,2025-09-13,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-10546,2025-07-06,2025-12-17,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10547,2025-06-15,2025-07-27,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10548,2025-10-04,2025-12-31,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10549,2025-01-29,2025-03-01,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10550,2025-08-25,2025-09-23,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10551,2025-02-19,2025-06-05,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10552,2025-09-03,2025-12-26,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10553,2025-10-04,2025-11-05,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10554,2025-08-21,2025-12-02,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10555,2025-06-26,2025-10-02,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10556,2025-06-17,2025-07-25,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10557,2025-02-14,2025-10-26,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10558,2025-12-07,2025-12-26,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10559,2025-10-07,2025-12-30,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10560,2025-06-17,2025-12-09,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10561,2025-06-10,2025-10-20,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10562,2025-06-04,2025-11-13,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10563,2025-02-06,2025-06-08,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10564,2025-05-02,2025-08-09,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10565,2025-03-01,2025-11-23,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10566,2025-01-27,2025-03-03,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10567,2025-02-06,2025-07-23,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10568,2025-10-17,2025-12-27,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10569,2025-11-12,2025-11-24,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10570,2025-01-24,2025-09-09,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10571,2025-08-07,2025-10-10,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10572,2025-02-17,2025-07-27,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10573,2025-12-06,2025-12-26,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10574,2025-01-20,2025-05-12,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10575,2025-05-02,2025-09-15,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10576,2025-08-13,2025-11-19,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10577,2025-03-02,2025-11-12,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10578,2025-03-29,2025-05-10,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10579,2025-11-25,2025-12-22,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10580,2025-02-14,2025-12-07,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10581,2025-08-11,2025-09-24,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10582,2025-11-25,2025-12-22,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10583,2025-08-27,2025-12-30,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10584,2025-01-11,2025-09-04,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10585,2025-11-19,2025-12-22,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10586,2025-01-12,2025-03-23,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10587,2025-09-30,2025-12-13,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10588,2025-12-24,2025-12-29,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10589,2025-01-03,2025-03-14,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10590,2025-08-08,2025-12-14,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10591,2025-01-28,2025-03-24,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10592,2025-09-03,2025-09-09,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10593,2025-10-17,2025-12-08,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10594,2025-05-27,2025-11-06,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10595,2025-05-13,2025-07-13,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10596,2025-05-02,2025-09-05,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10597,2025-08-20,2025-09-06,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-10598,2025-03-02,2025-05-02,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10599,2025-01-20,2025-10-09,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10600,2025-04-16,2025-10-05,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10601,2025-06-14,2025-12-20,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10602,2025-06-21,2025-09-10,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10603,2025-03-25,2025-10-10,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10604,2025-05-15,2025-10-29,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10605,2025-04-21,2025-12-07,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10606,2025-07-24,2025-12-01,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10607,2025-01-18,2025-04-14,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10608,2025-08-21,2025-09-01,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-10609,2025-03-21,2025-07-16,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10610,2025-10-26,2025-11-08,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10611,2025-04-23,2025-08-28,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10612,2025-01-04,2025-07-16,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10613,2025-06-17,2025-08-24,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10614,2025-05-28,2025-12-21,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10615,2025-03-31,2025-10-11,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10616,2025-11-20,2025-12-23,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10617,2025-01-28,2025-07-02,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10618,2025-01-17,2025-07-05,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-10619,2025-06-28,2025-12-24,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10620,2025-12-01,2025-12-17,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10621,2025-06-16,2025-11-20,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10622,2025-09-06,2025-11-26,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10623,2025-02-14,2025-07-22,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-10624,2025-05-07,2025-07-12,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10625,2025-06-28,2025-12-07,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10626,2025-12-24,2025-12-28,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10627,2025-06-19,2025-07-30,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10628,2025-06-19,2025-11-21,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10629,2025-01-31,2025-07-04,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10630,2025-10-17,2025-11-19,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10631,2025-05-10,2025-07-14,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10632,2025-07-18,2025-11-18,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10633,2025-07-26,2025-11-02,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10634,2025-12-18,2025-12-27,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10635,2025-10-10,2025-12-28,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10636,2025-11-13,2025-11-20,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10637,2025-02-09,2025-04-07,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10638,2025-03-18,2025-05-24,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10639,2025-03-01,2025-12-21,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10640,2025-01-30,2025-04-09,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10641,2025-07-11,2025-10-09,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10642,2025-10-23,2025-12-18,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10643,2025-09-22,2025-11-24,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10644,2025-05-03,2025-07-01,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10645,2025-01-27,2025-07-28,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10646,2025-09-03,2025-11-01,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10647,2025-08-18,2025-08-29,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10648,2025-07-17,2025-07-31,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10649,2025-06-29,2025-09-25,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-10650,2025-01-23,2025-06-15,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10651,2025-01-30,2025-10-08,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10652,2025-08-27,2025-12-21,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10653,2025-05-30,2025-11-26,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10654,2025-08-04,2025-12-25,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-10655,2025-06-24,2025-12-18,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10656,2025-09-11,2025-10-17,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10657,2025-08-23,2025-11-24,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10658,2025-02-28,2025-03-24,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10659,2025-02-10,2025-12-22,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10660,2025-10-05,2025-10-13,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10661,2025-09-08,2025-10-12,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-10662,2025-04-07,2025-09-24,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10663,2025-07-23,2025-11-02,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10664,2025-03-03,2025-07-22,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10665,2025-12-23,2025-12-26,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10666,2025-06-08,2025-10-18,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10667,2025-08-21,2025-08-31,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10668,2025-09-09,2025-11-13,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10669,2025-05-09,2025-06-14,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10670,2025-09-21,2025-12-05,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10671,2025-04-08,2025-12-19,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10672,2025-12-06,2025-12-13,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10673,2025-02-01,2025-09-15,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10674,2025-02-24,2025-07-10,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10675,2025-09-12,2025-11-27,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10676,2025-08-20,2025-09-05,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10677,2025-08-06,2025-10-18,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10678,2025-11-04,2025-12-06,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10679,2025-09-18,2025-12-29,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10680,2025-09-08,2025-11-30,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10681,2025-05-21,2025-05-28,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10682,2025-04-30,2025-07-09,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10683,2025-05-13,2025-11-18,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10684,2025-03-29,2025-05-22,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10685,2025-01-30,2025-05-25,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10686,2025-07-17,2025-12-13,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10687,2025-11-21,2025-12-27,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10688,2025-01-15,2025-09-29,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10689,2025-12-07,2025-12-13,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10690,2025-05-27,2025-07-26,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10691,2025-03-12,2025-12-06,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10692,2025-11-11,2025-11-27,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10693,2025-06-19,2025-07-06,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10694,2025-05-22,2025-08-22,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10695,2025-08-26,2025-10-20,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10696,2025-11-01,2025-12-14,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10697,2025-07-27,2025-09-11,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10698,2025-11-11,2025-12-26,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10699,2025-05-23,2025-12-31,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10700,2025-06-29,2025-11-25,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10701,2025-10-30,2025-12-06,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10702,2025-07-24,2025-10-14,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10703,2025-11-14,2025-11-23,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10704,2025-02-23,2025-05-31,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-10705,2025-09-07,2025-12-09,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10706,2025-08-04,2025-08-24,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10707,2025-11-25,2025-12-20,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10708,2025-04-21,2025-05-24,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10709,2025-04-16,2025-10-08,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10710,2025-02-27,2025-08-16,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10711,2025-12-20,2025-12-23,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10712,2025-12-10,2025-12-19,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-10713,2025-06-11,2025-07-01,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10714,2025-07-14,2025-09-25,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10715,2025-05-30,2025-07-01,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10716,2025-03-29,2025-04-09,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10717,2025-12-28,2025-12-29,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10718,2025-09-10,2025-11-14,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10719,2025-02-23,2025-03-10,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10720,2025-12-23,2025-12-29,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10721,2025-11-19,2025-11-26,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10722,2025-07-02,2025-09-27,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10723,2025-01-03,2025-12-20,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10724,2025-01-08,2025-04-17,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10725,2025-11-21,2025-11-28,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10726,2025-10-10,2025-12-08,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10727,2025-06-14,2025-07-27,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10728,2025-04-03,2025-07-29,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10729,2025-01-19,2025-04-22,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10730,2025-09-06,2025-12-03,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10731,2025-02-13,2025-08-26,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10732,2025-07-28,2025-07-31,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10733,2025-07-20,2025-11-08,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10734,2025-10-07,2025-10-20,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10735,2025-06-16,2025-06-17,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10736,2025-05-18,2025-08-19,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10737,2025-06-11,2025-08-23,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10738,2025-09-17,2025-10-04,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10739,2025-05-21,2025-06-16,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10740,2025-07-31,2025-11-06,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10741,2025-08-04,2025-08-08,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10742,2025-12-06,2025-12-28,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-10743,2025-09-04,2025-11-18,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10744,2025-04-09,2025-04-15,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10745,2025-11-03,2025-11-09,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10746,2025-04-04,2025-12-15,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10747,2025-02-10,2025-12-06,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10748,2025-10-13,2025-12-25,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10749,2025-02-21,2025-03-11,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10750,2025-08-01,2025-10-05,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10751,2025-03-09,2025-11-30,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10752,2025-09-28,2025-11-13,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10753,2025-03-12,2025-05-04,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10754,2025-10-06,2025-12-20,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10755,2025-01-15,2025-05-09,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10756,2025-01-18,2025-11-21,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10757,2025-12-11,2025-12-12,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10758,2025-12-29,2025-12-30,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10759,2025-06-04,2025-12-05,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10760,2025-01-15,2025-11-03,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10761,2025-03-16,2025-07-05,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10762,2025-12-01,2025-12-04,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10763,2025-05-09,2025-08-24,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10764,2025-11-07,2025-12-13,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10765,2025-12-12,2025-12-22,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10766,2025-06-20,2025-11-17,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10767,2025-03-14,2025-09-23,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10768,2025-07-13,2025-09-22,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10769,2025-04-14,2025-05-16,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10770,2025-06-14,2025-07-15,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10771,2025-08-22,2025-09-27,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10772,2025-04-25,2025-08-27,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10773,2025-02-01,2025-06-08,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10774,2025-04-25,2025-08-22,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10775,2025-08-23,2025-11-13,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10776,2025-09-25,2025-12-21,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10777,2025-06-23,2025-07-01,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10778,2025-12-04,2025-12-22,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10779,2025-06-18,2025-10-03,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10780,2025-11-04,2025-11-09,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10781,2025-09-18,2025-12-06,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10782,2025-07-19,2025-12-21,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10783,2025-09-21,2025-10-22,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-10784,2025-02-25,2025-10-19,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10785,2025-10-31,2025-12-12,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-10786,2025-02-19,2025-03-17,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10787,2025-10-30,2025-12-31,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10788,2025-05-21,2025-10-17,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10789,2025-01-13,2025-09-05,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10790,2025-09-21,2025-12-18,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10791,2025-05-25,2025-11-13,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10792,2025-08-11,2025-09-07,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10793,2025-05-23,2025-10-25,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10794,2025-09-10,2025-11-03,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10795,2025-02-14,2025-02-24,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10796,2025-03-14,2025-09-24,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10797,2025-05-31,2025-07-16,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10798,2025-10-28,2025-11-23,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10799,2025-06-23,2025-08-03,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10800,2025-04-21,2025-10-29,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10801,2025-02-17,2025-04-11,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10802,2025-06-25,2025-07-29,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10803,2025-06-22,2025-07-09,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10804,2025-11-25,2025-12-10,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10805,2025-05-15,2025-06-10,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10806,2025-07-30,2025-09-24,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10807,2025-11-27,2025-12-05,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10808,2025-10-03,2025-12-10,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10809,2025-03-09,2025-07-27,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10810,2025-03-29,2025-05-15,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10811,2025-11-04,2025-11-18,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10812,2025-11-03,2025-12-21,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-10813,2025-05-21,2025-12-22,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10814,2025-05-24,2025-11-21,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10815,2025-02-20,2025-10-16,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10816,2025-01-26,2025-05-26,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10817,2025-10-06,2025-12-15,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10818,2025-07-24,2025-10-11,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10819,2025-11-16,2025-12-14,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10820,2025-02-18,2025-06-21,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10821,2025-01-29,2025-07-23,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10822,2025-09-22,2025-12-31,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10823,2025-02-19,2025-12-19,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10824,2025-09-06,2025-12-29,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10825,2025-10-26,2025-11-07,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10826,2025-07-15,2025-12-30,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-10827,2025-11-19,2025-11-25,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10828,2025-03-01,2025-06-27,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10829,2025-03-04,2025-07-08,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10830,2025-03-29,2025-08-10,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10831,2025-12-14,2025-12-21,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10832,2025-04-08,2025-06-23,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10833,2025-08-02,2025-09-25,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10834,2025-08-31,2025-10-29,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10835,2025-07-27,2025-08-14,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10836,2025-09-06,2025-10-09,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10837,2025-08-14,2025-09-13,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10838,2025-09-13,2025-11-18,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10839,2025-01-16,2025-12-03,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-10840,2025-02-01,2025-02-19,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10841,2025-10-27,2025-12-22,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10842,2025-09-10,2025-10-21,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10843,2025-06-11,2025-06-23,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10844,2025-12-12,2025-12-27,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10845,2025-04-23,2025-12-28,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10846,2025-07-07,2025-08-24,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10847,2025-06-07,2025-10-01,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10848,2025-01-29,2025-10-23,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-10849,2025-03-03,2025-08-21,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10850,2025-07-08,2025-10-06,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10851,2025-05-13,2025-07-07,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10852,2025-12-01,2025-12-17,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10853,2025-12-01,2025-12-18,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10854,2025-02-20,2025-12-13,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10855,2025-07-19,2025-11-06,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10856,2025-05-04,2025-08-06,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10857,2025-02-17,2025-06-01,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10858,2025-04-07,2025-05-31,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10859,2025-01-20,2025-05-13,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10860,2025-12-02,2025-12-22,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10861,2025-12-03,2025-12-10,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10862,2025-12-29,2025-12-31,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10863,2025-05-02,2025-07-15,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10864,2025-07-13,2025-10-21,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10865,2025-07-13,2025-12-31,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10866,2025-07-13,2025-07-17,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10867,2025-06-02,2025-12-16,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10868,2025-04-04,2025-06-27,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10869,2025-05-18,2025-06-05,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-10870,2025-04-20,2025-10-29,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10871,2025-12-09,2025-12-30,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10872,2025-09-19,2025-12-19,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10873,2025-07-28,2025-07-30,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10874,2025-06-17,2025-08-08,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10875,2025-10-10,2025-11-15,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10876,2025-05-23,2025-06-09,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10877,2025-01-20,2025-08-30,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10878,2025-03-17,2025-08-05,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10879,2025-04-23,2025-05-21,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10880,2025-07-15,2025-10-11,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10881,2025-04-19,2025-12-17,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10882,2025-08-26,2025-09-18,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10883,2025-02-07,2025-07-10,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10884,2025-11-05,2025-12-08,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10885,2025-12-31,2025-12-31,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10886,2025-03-19,2025-11-08,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10887,2025-06-05,2025-12-17,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-10888,2025-01-18,2025-02-02,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10889,2025-10-05,2025-11-06,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10890,2025-07-21,2025-10-18,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10891,2025-08-24,2025-12-02,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10892,2025-05-08,2025-09-09,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10893,2025-06-02,2025-09-26,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10894,2025-05-11,2025-11-24,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10895,2025-07-26,2025-10-29,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10896,2025-08-07,2025-10-04,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10897,2025-11-13,2025-11-14,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10898,2025-05-09,2025-06-21,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10899,2025-08-15,2025-10-14,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10900,2025-12-05,2025-12-06,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10901,2025-07-04,2025-08-24,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10902,2025-11-01,2025-12-27,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10903,2025-03-30,2025-04-19,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10904,2025-07-06,2025-08-08,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10905,2025-09-02,2025-12-31,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10906,2025-02-27,2025-11-18,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10907,2025-01-13,2025-08-23,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10908,2025-02-12,2025-04-27,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-10909,2025-06-21,2025-08-21,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10910,2025-02-28,2025-08-08,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10911,2025-03-21,2025-08-27,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10912,2025-10-28,2025-12-27,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10913,2025-12-05,2025-12-08,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10914,2025-02-23,2025-09-13,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10915,2025-08-06,2025-10-08,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10916,2025-07-05,2025-10-15,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10917,2025-05-02,2025-07-09,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10918,2025-12-21,2025-12-27,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10919,2025-08-01,2025-10-08,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10920,2025-10-27,2025-12-29,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10921,2025-04-13,2025-12-06,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10922,2025-03-16,2025-06-20,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10923,2025-08-05,2025-10-02,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10924,2025-04-26,2025-08-16,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10925,2025-03-22,2025-12-15,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10926,2025-07-09,2025-09-09,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10927,2025-05-16,2025-12-20,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10928,2025-04-17,2025-08-06,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10929,2025-08-11,2025-12-21,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10930,2025-05-28,2025-10-28,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10931,2025-10-28,2025-11-11,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10932,2025-01-17,2025-05-09,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10933,2025-01-31,2025-06-15,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10934,2025-09-12,2025-11-01,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10935,2025-07-06,2025-08-16,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10936,2025-11-18,2025-12-14,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10937,2025-12-29,2025-12-31,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10938,2025-04-16,2025-06-08,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10939,2025-08-28,2025-12-20,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10940,2025-04-05,2025-04-24,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10941,2025-12-18,2025-12-31,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10942,2025-09-05,2025-10-20,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-10943,2025-02-08,2025-07-19,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10944,2025-10-06,2025-11-21,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10945,2025-09-22,2025-10-19,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-10946,2025-08-02,2025-09-02,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10947,2025-09-11,2025-12-12,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10948,2025-09-10,2025-10-19,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10949,2025-05-05,2025-08-24,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10950,2025-01-23,2025-11-18,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10951,2025-09-11,2025-12-31,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10952,2025-07-27,2025-12-18,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10953,2025-11-27,2025-11-29,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10954,2025-06-12,2025-08-19,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-10955,2025-11-21,2025-12-11,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10956,2025-03-14,2025-12-30,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10957,2025-12-07,2025-12-09,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-10958,2025-04-26,2025-12-03,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10959,2025-02-11,2025-06-21,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10960,2025-06-26,2025-10-28,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10961,2025-07-23,2025-10-27,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10962,2025-11-27,2025-12-21,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10963,2025-04-16,2025-06-30,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10964,2025-05-09,2025-07-11,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10965,2025-06-28,2025-11-01,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10966,2025-10-07,2025-10-25,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-10967,2025-10-14,2025-11-15,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10968,2025-08-09,2025-12-18,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10969,2025-03-10,2025-11-02,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-10970,2025-12-15,2025-12-25,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10971,2025-07-20,2025-09-21,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-10972,2025-06-05,2025-07-12,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10973,2025-02-24,2025-08-29,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10974,2025-12-30,2025-12-31,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-10975,2025-04-12,2025-09-08,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10976,2025-06-23,2025-11-16,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10977,2025-05-09,2025-09-03,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10978,2025-10-08,2025-12-03,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-10979,2025-04-12,2025-12-22,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-10980,2025-09-27,2025-10-19,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-10981,2025-09-17,2025-10-10,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-10982,2025-04-30,2025-07-01,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-10983,2025-09-24,2025-12-31,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10984,2025-10-26,2025-11-26,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10985,2025-02-15,2025-10-21,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-10986,2025-05-23,2025-08-17,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10987,2025-02-21,2025-08-26,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10988,2025-06-26,2025-11-18,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10989,2025-05-26,2025-11-03,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10990,2025-08-02,2025-11-01,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10991,2025-11-08,2025-11-29,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10992,2025-09-22,2025-10-08,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10993,2025-06-23,2025-10-04,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-10994,2025-05-21,2025-06-20,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-10995,2025-02-13,2025-03-09,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10996,2025-12-17,2025-12-29,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-10997,2025-08-11,2025-11-23,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-10998,2025-03-05,2025-07-11,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-10999,2025-06-21,2025-07-14,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11000,2025-03-21,2025-12-25,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11001,2025-07-09,2025-07-27,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11002,2025-06-23,2025-11-27,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11003,2025-06-26,2025-07-21,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11004,2025-06-11,2025-12-05,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11005,2025-01-23,2025-08-28,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11006,2025-09-19,2025-11-18,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11007,2025-01-09,2025-06-12,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11008,2025-11-14,2025-11-14,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11009,2025-03-26,2025-11-06,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11010,2025-01-18,2025-07-02,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11011,2025-09-30,2025-10-06,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11012,2025-01-24,2025-02-20,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11013,2025-01-13,2025-05-04,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11014,2025-03-11,2025-05-03,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11015,2025-10-11,2025-12-12,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11016,2025-05-26,2025-10-21,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11017,2025-12-04,2025-12-23,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11018,2025-02-01,2025-10-24,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11019,2025-12-06,2025-12-13,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11020,2025-12-01,2025-12-17,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11021,2025-03-11,2025-10-05,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11022,2025-07-25,2025-08-19,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11023,2025-03-28,2025-03-29,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11024,2025-04-26,2025-10-23,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11025,2025-10-07,2025-11-29,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11026,2025-07-26,2025-10-08,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11027,2025-04-07,2025-10-03,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11028,2025-03-02,2025-06-17,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11029,2025-12-31,2025-12-31,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11030,2025-11-11,2025-12-22,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11031,2025-10-25,2025-10-27,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11032,2025-03-22,2025-04-17,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11033,2025-08-19,2025-08-26,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11034,2025-08-21,2025-12-29,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11035,2025-12-05,2025-12-08,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11036,2025-10-15,2025-10-19,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11037,2025-06-20,2025-09-19,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11038,2025-03-26,2025-04-17,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11039,2025-07-15,2025-09-09,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11040,2025-11-13,2025-12-28,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11041,2025-08-12,2025-10-13,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11042,2025-08-21,2025-12-29,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11043,2025-04-03,2025-07-29,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11044,2025-09-14,2025-12-24,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11045,2025-06-10,2025-10-05,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11046,2025-01-24,2025-08-28,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11047,2025-12-08,2025-12-26,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11048,2025-09-01,2025-11-23,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11049,2025-07-12,2025-07-21,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11050,2025-09-07,2025-11-20,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11051,2025-05-04,2025-10-13,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11052,2025-02-27,2025-06-24,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11053,2025-03-13,2025-12-31,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11054,2025-07-03,2025-08-19,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11055,2025-04-27,2025-06-22,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11056,2025-12-22,2025-12-22,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11057,2025-06-10,2025-11-19,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11058,2025-07-25,2025-08-20,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11059,2025-04-05,2025-07-13,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11060,2025-05-09,2025-06-08,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11061,2025-11-25,2025-12-14,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11062,2025-07-28,2025-12-15,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11063,2025-01-21,2025-05-05,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11064,2025-09-19,2025-09-27,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11065,2025-03-15,2025-10-29,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11066,2025-09-18,2025-10-30,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11067,2025-03-23,2025-07-30,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11068,2025-12-20,2025-12-20,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11069,2025-12-30,2025-12-31,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11070,2025-02-15,2025-12-02,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11071,2025-12-22,2025-12-25,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11072,2025-08-23,2025-10-02,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11073,2025-12-22,2025-12-25,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11074,2025-05-05,2025-08-23,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11075,2025-07-01,2025-10-12,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11076,2025-05-20,2025-09-17,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11077,2025-05-20,2025-12-05,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11078,2025-06-30,2025-07-20,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11079,2025-07-02,2025-11-27,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11080,2025-12-22,2025-12-24,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11081,2025-05-02,2025-10-10,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11082,2025-08-07,2025-09-19,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11083,2025-02-26,2025-03-04,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11084,2025-08-03,2025-11-25,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11085,2025-10-07,2025-11-17,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11086,2025-03-01,2025-05-16,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11087,2025-03-31,2025-08-25,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11088,2025-11-20,2025-12-02,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11089,2025-08-02,2025-12-07,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11090,2025-05-12,2025-08-20,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11091,2025-10-09,2025-12-10,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11092,2025-07-10,2025-10-08,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11093,2025-10-12,2025-12-28,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11094,2025-03-07,2025-05-01,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11095,2025-08-01,2025-11-04,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11096,2025-12-23,2025-12-29,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11097,2025-01-23,2025-08-15,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11098,2025-11-22,2025-11-26,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11099,2025-01-19,2025-11-12,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11100,2025-06-10,2025-08-02,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11101,2025-03-31,2025-04-27,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11102,2025-02-28,2025-03-04,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11103,2025-07-16,2025-10-12,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11104,2025-01-24,2025-09-21,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11105,2025-09-16,2025-12-19,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11106,2025-07-09,2025-07-12,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11107,2025-07-26,2025-11-10,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11108,2025-01-05,2025-01-12,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11109,2025-10-08,2025-11-04,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11110,2025-04-22,2025-04-28,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11111,2025-11-12,2025-12-24,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11112,2025-02-11,2025-03-20,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11113,2025-02-27,2025-06-01,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11114,2025-08-29,2025-12-09,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11115,2025-11-13,2025-11-30,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11116,2025-11-05,2025-12-14,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11117,2025-05-25,2025-10-30,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11118,2025-08-08,2025-09-24,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11119,2025-03-29,2025-07-24,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11120,2025-11-18,2025-12-29,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11121,2025-09-11,2025-09-18,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11122,2025-06-07,2025-11-01,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11123,2025-08-03,2025-11-04,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11124,2025-09-05,2025-09-07,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11125,2025-03-08,2025-04-09,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11126,2025-11-25,2025-12-16,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11127,2025-11-01,2025-12-03,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11128,2025-11-30,2025-12-04,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11129,2025-12-23,2025-12-24,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11130,2025-03-24,2025-12-17,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11131,2025-07-04,2025-08-26,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11132,2025-12-25,2025-12-26,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11133,2025-12-26,2025-12-28,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11134,2025-08-07,2025-12-13,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11135,2025-03-11,2025-07-11,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11136,2025-03-22,2025-11-05,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11137,2025-10-20,2025-12-28,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11138,2025-12-27,2025-12-28,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11139,2025-03-05,2025-10-10,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11140,2025-08-09,2025-10-23,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11141,2025-12-15,2025-12-28,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11142,2025-05-30,2025-07-23,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11143,2025-10-09,2025-10-16,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11144,2025-10-17,2025-11-20,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11145,2025-02-07,2025-07-27,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11146,2025-11-22,2025-11-26,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11147,2025-08-24,2025-12-21,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11148,2025-06-04,2025-10-08,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11149,2025-09-04,2025-10-27,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11150,2025-07-10,2025-08-23,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11151,2025-08-03,2025-10-15,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11152,2025-03-14,2025-12-03,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11153,2025-09-14,2025-11-27,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11154,2025-10-27,2025-12-26,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11155,2025-11-06,2025-11-30,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11156,2025-01-29,2025-03-02,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11157,2025-03-01,2025-07-27,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11158,2025-11-01,2025-11-16,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11159,2025-06-01,2025-10-02,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11160,2025-02-11,2025-03-18,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11161,2025-04-30,2025-10-20,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11162,2025-10-23,2025-11-18,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11163,2025-02-21,2025-03-27,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11164,2025-06-17,2025-12-08,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11165,2025-08-04,2025-11-11,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11166,2025-02-10,2025-02-20,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11167,2025-05-18,2025-12-19,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11168,2025-08-20,2025-12-14,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11169,2025-12-02,2025-12-21,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11170,2025-04-24,2025-10-02,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11171,2025-10-30,2025-11-07,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11172,2025-12-16,2025-12-30,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11173,2025-08-11,2025-11-20,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11174,2025-09-24,2025-12-07,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11175,2025-02-23,2025-06-08,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11176,2025-04-15,2025-10-23,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11177,2025-01-25,2025-03-31,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11178,2025-04-18,2025-09-28,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11179,2025-07-08,2025-12-07,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11180,2025-05-21,2025-08-26,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11181,2025-10-07,2025-12-07,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11182,2025-08-19,2025-12-17,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11183,2025-06-27,2025-07-18,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11184,2025-04-29,2025-05-01,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11185,2025-05-10,2025-10-04,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11186,2025-06-20,2025-08-24,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11187,2025-11-13,2025-12-23,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11188,2025-08-19,2025-09-15,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11189,2025-05-05,2025-12-25,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11190,2025-03-20,2025-09-22,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11191,2025-03-10,2025-08-12,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11192,2025-04-24,2025-12-25,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11193,2025-08-12,2025-09-28,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11194,2025-05-27,2025-09-12,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11195,2025-05-22,2025-07-05,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11196,2025-03-19,2025-11-04,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11197,2025-03-11,2025-12-01,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11198,2025-01-11,2025-10-20,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11199,2025-10-03,2025-10-23,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11200,2025-11-06,2025-12-05,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11201,2025-01-27,2025-12-11,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11202,2025-09-19,2025-12-25,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11203,2025-09-03,2025-11-01,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11204,2025-04-09,2025-12-20,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11205,2025-10-05,2025-11-15,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11206,2025-01-29,2025-07-23,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11207,2025-07-06,2025-10-27,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11208,2025-07-27,2025-11-02,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11209,2025-06-12,2025-06-26,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11210,2025-09-30,2025-12-26,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11211,2025-08-19,2025-12-21,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11212,2025-02-12,2025-12-08,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11213,2025-09-13,2025-11-21,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11214,2025-09-09,2025-09-17,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11215,2025-09-08,2025-11-25,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11216,2025-11-06,2025-12-18,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11217,2025-01-05,2025-02-12,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11218,2025-03-28,2025-10-12,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11219,2025-07-21,2025-11-06,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11220,2025-09-25,2025-11-06,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11221,2025-05-26,2025-10-25,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11222,2025-10-27,2025-12-24,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11223,2025-07-14,2025-08-12,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11224,2025-01-10,2025-07-17,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11225,2025-04-25,2025-10-04,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11226,2025-02-15,2025-11-25,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11227,2025-05-16,2025-09-14,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11228,2025-06-26,2025-11-26,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11229,2025-07-22,2025-10-24,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11230,2025-07-04,2025-07-23,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11231,2025-10-08,2025-12-15,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11232,2025-05-04,2025-05-30,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11233,2025-01-18,2025-11-28,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11234,2025-02-14,2025-02-23,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11235,2025-09-09,2025-09-30,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11236,2025-11-07,2025-11-23,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11237,2025-04-05,2025-10-23,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11238,2025-08-03,2025-09-03,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11239,2025-08-06,2025-10-28,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11240,2025-04-01,2025-09-05,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11241,2025-03-13,2025-05-25,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11242,2025-09-13,2025-12-06,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11243,2025-01-12,2025-10-25,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11244,2025-12-09,2025-12-14,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11245,2025-08-18,2025-11-10,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11246,2025-01-02,2025-10-03,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11247,2025-03-21,2025-07-08,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11248,2025-11-11,2025-11-17,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11249,2025-02-09,2025-12-17,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11250,2025-03-14,2025-08-03,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11251,2025-03-18,2025-09-12,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11252,2025-04-12,2025-12-29,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11253,2025-07-24,2025-11-26,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11254,2025-08-20,2025-11-04,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11255,2025-06-02,2025-07-16,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11256,2025-05-17,2025-11-11,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11257,2025-03-09,2025-11-25,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11258,2025-11-07,2025-12-06,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11259,2025-08-18,2025-09-03,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11260,2025-02-22,2025-06-23,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11261,2025-04-03,2025-07-31,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11262,2025-03-13,2025-08-05,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11263,2025-02-24,2025-09-11,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11264,2025-06-12,2025-08-04,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11265,2025-05-30,2025-11-10,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11266,2025-07-09,2025-11-09,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11267,2025-09-27,2025-12-25,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11268,2025-12-28,2025-12-29,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11269,2025-03-06,2025-09-12,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11270,2025-02-24,2025-05-08,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11271,2025-11-23,2025-12-15,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11272,2025-01-21,2025-12-23,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11273,2025-01-04,2025-07-11,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11274,2025-03-17,2025-08-13,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11275,2025-07-16,2025-11-20,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11276,2025-06-08,2025-12-16,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11277,2025-10-03,2025-12-24,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11278,2025-07-09,2025-08-11,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11279,2025-08-08,2025-08-14,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11280,2025-04-24,2025-05-07,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11281,2025-03-29,2025-10-24,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11282,2025-03-07,2025-08-31,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11283,2025-10-16,2025-12-30,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11284,2025-08-02,2025-11-09,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11285,2025-08-11,2025-09-02,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11286,2025-10-29,2025-12-20,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11287,2025-07-30,2025-12-24,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11288,2025-10-23,2025-12-31,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11289,2025-08-01,2025-09-12,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11290,2025-02-09,2025-11-22,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11291,2025-10-19,2025-11-12,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11292,2025-12-06,2025-12-08,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11293,2025-04-13,2025-08-26,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11294,2025-06-20,2025-08-05,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11295,2025-03-23,2025-11-06,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11296,2025-05-17,2025-10-30,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11297,2025-08-28,2025-09-24,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11298,2025-11-12,2025-12-03,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11299,2025-08-10,2025-10-17,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11300,2025-04-20,2025-12-07,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11301,2025-03-07,2025-07-11,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11302,2025-04-24,2025-08-15,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11303,2025-04-14,2025-10-31,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11304,2025-11-13,2025-11-18,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11305,2025-10-19,2025-11-28,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11306,2025-04-18,2025-12-29,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11307,2025-09-30,2025-12-23,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11308,2025-04-07,2025-06-03,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11309,2025-05-06,2025-08-10,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11310,2025-06-02,2025-12-09,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11311,2025-08-13,2025-12-14,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11312,2025-09-01,2025-11-21,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11313,2025-06-25,2025-07-10,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11314,2025-11-05,2025-11-14,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11315,2025-07-20,2025-12-12,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11316,2025-09-27,2025-12-27,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11317,2025-06-26,2025-12-28,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11318,2025-05-08,2025-12-20,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11319,2025-12-04,2025-12-08,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11320,2025-06-28,2025-10-29,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11321,2025-09-28,2025-11-02,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11322,2025-11-06,2025-12-27,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11323,2025-03-26,2025-09-09,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11324,2025-07-12,2025-09-02,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11325,2025-11-18,2025-12-02,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11326,2025-08-01,2025-11-21,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11327,2025-08-08,2025-11-11,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11328,2025-12-14,2025-12-30,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11329,2025-01-18,2025-02-26,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11330,2025-11-01,2025-12-16,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11331,2025-02-18,2025-04-20,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11332,2025-06-27,2025-06-27,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11333,2025-03-20,2025-12-12,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11334,2025-12-09,2025-12-25,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11335,2025-03-03,2025-06-18,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11336,2025-09-12,2025-11-21,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11337,2025-02-02,2025-06-26,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11338,2025-12-18,2025-12-22,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11339,2025-06-03,2025-09-30,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11340,2025-09-29,2025-12-11,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11341,2025-06-16,2025-07-22,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11342,2025-02-06,2025-02-07,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11343,2025-07-05,2025-07-20,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11344,2025-08-19,2025-10-02,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11345,2025-09-22,2025-12-17,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11346,2025-01-04,2025-10-01,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11347,2025-11-14,2025-11-20,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11348,2025-09-27,2025-10-10,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11349,2025-01-28,2025-04-27,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11350,2025-02-04,2025-11-15,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11351,2025-02-10,2025-06-11,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11352,2025-12-09,2025-12-16,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11353,2025-05-29,2025-07-20,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11354,2025-09-20,2025-10-18,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11355,2025-07-26,2025-11-12,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11356,2025-08-26,2025-12-30,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11357,2025-06-20,2025-08-28,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11358,2025-03-24,2025-11-23,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11359,2025-02-28,2025-08-07,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11360,2025-09-24,2025-12-19,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11361,2025-02-03,2025-03-14,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11362,2025-10-20,2025-11-01,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11363,2025-10-11,2025-11-17,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11364,2025-06-16,2025-10-16,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11365,2025-04-07,2025-07-23,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11366,2025-02-02,2025-05-10,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11367,2025-08-22,2025-12-16,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11368,2025-08-24,2025-10-19,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11369,2025-01-11,2025-12-06,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11370,2025-12-07,2025-12-21,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11371,2025-07-21,2025-11-15,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11372,2025-03-15,2025-12-30,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11373,2025-04-25,2025-05-16,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11374,2025-07-12,2025-09-25,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11375,2025-04-04,2025-10-15,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11376,2025-08-19,2025-09-02,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11377,2025-12-12,2025-12-12,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11378,2025-12-29,2025-12-30,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11379,2025-05-31,2025-11-10,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11380,2025-08-01,2025-12-11,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11381,2025-10-24,2025-12-08,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11382,2025-01-07,2025-08-23,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11383,2025-01-06,2025-04-18,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11384,2025-01-16,2025-02-08,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11385,2025-07-16,2025-09-10,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11386,2025-10-04,2025-11-22,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11387,2025-06-14,2025-11-17,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11388,2025-09-06,2025-12-19,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11389,2025-08-28,2025-09-26,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11390,2025-02-02,2025-06-02,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11391,2025-07-18,2025-08-27,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11392,2025-07-28,2025-09-29,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11393,2025-08-16,2025-12-17,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11394,2025-09-22,2025-10-05,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11395,2025-09-29,2025-11-10,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11396,2025-11-25,2025-12-07,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11397,2025-04-05,2025-05-09,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11398,2025-02-15,2025-08-10,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11399,2025-08-25,2025-09-05,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11400,2025-09-16,2025-10-20,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11401,2025-01-05,2025-10-07,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11402,2025-09-30,2025-10-01,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11403,2025-07-12,2025-09-18,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11404,2025-07-20,2025-12-19,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11405,2025-04-11,2025-06-15,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11406,2025-02-19,2025-12-07,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11407,2025-10-12,2025-10-24,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11408,2025-05-11,2025-10-24,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11409,2025-07-23,2025-08-04,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11410,2025-10-04,2025-11-29,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11411,2025-01-30,2025-08-11,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11412,2025-07-18,2025-09-26,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11413,2025-07-14,2025-12-27,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11414,2025-03-06,2025-07-27,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11415,2025-04-10,2025-05-20,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11416,2025-09-19,2025-10-12,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11417,2025-10-15,2025-12-04,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11418,2025-01-18,2025-12-17,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11419,2025-04-05,2025-04-23,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11420,2025-05-22,2025-10-18,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11421,2025-03-11,2025-03-25,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11422,2025-11-08,2025-12-19,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11423,2025-05-05,2025-08-10,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11424,2025-12-22,2025-12-31,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11425,2025-04-16,2025-05-16,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11426,2025-05-25,2025-07-11,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11427,2025-09-19,2025-09-29,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11428,2025-03-28,2025-10-14,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11429,2025-06-05,2025-07-02,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11430,2025-12-03,2025-12-17,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11431,2025-05-08,2025-06-10,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11432,2025-06-27,2025-06-28,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11433,2025-03-19,2025-07-11,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11434,2025-11-01,2025-12-01,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11435,2025-08-30,2025-10-16,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11436,2025-05-24,2025-12-01,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11437,2025-10-12,2025-12-04,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11438,2025-02-28,2025-03-02,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11439,2025-01-10,2025-04-10,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11440,2025-05-15,2025-05-19,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11441,2025-01-01,2025-10-23,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11442,2025-05-27,2025-09-23,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11443,2025-03-21,2025-10-13,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11444,2025-06-13,2025-12-21,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11445,2025-02-25,2025-11-28,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11446,2025-02-06,2025-02-23,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11447,2025-12-15,2025-12-28,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11448,2025-09-30,2025-12-26,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11449,2025-06-28,2025-11-20,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11450,2025-08-14,2025-09-02,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11451,2025-02-21,2025-10-27,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11452,2025-01-30,2025-09-16,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11453,2025-01-25,2025-07-13,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11454,2025-02-20,2025-05-23,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11455,2025-04-12,2025-08-12,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11456,2025-09-30,2025-12-19,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11457,2025-05-07,2025-09-08,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11458,2025-04-16,2025-07-16,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11459,2025-03-20,2025-05-12,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11460,2025-02-12,2025-04-13,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11461,2025-03-05,2025-08-27,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11462,2025-05-02,2025-10-07,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11463,2025-07-28,2025-10-05,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11464,2025-06-25,2025-08-24,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11465,2025-04-13,2025-05-30,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11466,2025-03-03,2025-11-24,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11467,2025-11-17,2025-12-22,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11468,2025-08-23,2025-08-31,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11469,2025-11-21,2025-12-07,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11470,2025-02-05,2025-11-08,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11471,2025-05-19,2025-10-20,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11472,2025-01-20,2025-10-10,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11473,2025-04-12,2025-06-18,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11474,2025-06-07,2025-11-29,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11475,2025-10-18,2025-12-10,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11476,2025-02-06,2025-08-05,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11477,2025-11-09,2025-11-22,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11478,2025-01-05,2025-01-29,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11479,2025-02-20,2025-05-08,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11480,2025-05-25,2025-06-27,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11481,2025-08-16,2025-10-05,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11482,2025-01-09,2025-02-03,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11483,2025-12-17,2025-12-28,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11484,2025-02-05,2025-12-31,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11485,2025-02-17,2025-03-06,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11486,2025-01-20,2025-03-26,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11487,2025-06-18,2025-11-18,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11488,2025-01-12,2025-06-10,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11489,2025-06-15,2025-08-21,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11490,2025-03-25,2025-06-06,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11491,2025-04-19,2025-10-09,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11492,2025-01-14,2025-09-09,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11493,2025-08-28,2025-10-15,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11494,2025-04-25,2025-11-05,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11495,2025-12-09,2025-12-23,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11496,2025-01-24,2025-02-27,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11497,2025-05-29,2025-07-22,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11498,2025-03-19,2025-11-24,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11499,2025-04-07,2025-12-08,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11500,2025-11-05,2025-11-07,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11501,2025-10-31,2025-12-05,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11502,2025-07-31,2025-12-30,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11503,2025-05-14,2025-12-20,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11504,2025-05-05,2025-10-03,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11505,2025-03-11,2025-03-21,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11506,2025-08-20,2025-10-02,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11507,2025-12-14,2025-12-21,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11508,2025-11-11,2025-12-26,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11509,2025-05-19,2025-08-18,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11510,2025-02-08,2025-05-16,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11511,2025-04-04,2025-07-17,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11512,2025-11-14,2025-12-22,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11513,2025-01-22,2025-11-15,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11514,2025-08-12,2025-10-27,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11515,2025-12-30,2025-12-30,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11516,2025-04-02,2025-11-18,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11517,2025-11-10,2025-12-14,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11518,2025-01-11,2025-10-12,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11519,2025-05-17,2025-12-24,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11520,2025-02-25,2025-10-01,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11521,2025-11-21,2025-12-31,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11522,2025-07-30,2025-09-28,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11523,2025-07-10,2025-07-17,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11524,2025-01-22,2025-04-23,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11525,2025-03-26,2025-04-03,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11526,2025-07-05,2025-07-05,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11527,2025-12-23,2025-12-30,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11528,2025-11-10,2025-11-22,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11529,2025-10-06,2025-10-23,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11530,2025-01-24,2025-02-01,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11531,2025-08-16,2025-12-31,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11532,2025-10-28,2025-11-08,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11533,2025-12-01,2025-12-18,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11534,2025-05-26,2025-10-26,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11535,2025-02-09,2025-06-19,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11536,2025-05-06,2025-06-28,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11537,2025-10-12,2025-11-23,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11538,2025-07-09,2025-11-12,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11539,2025-03-09,2025-12-09,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11540,2025-09-27,2025-12-22,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11541,2025-11-02,2025-12-07,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11542,2025-09-16,2025-10-20,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11543,2025-04-30,2025-08-22,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11544,2025-03-11,2025-12-19,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11545,2025-09-30,2025-12-31,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11546,2025-06-02,2025-06-14,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11547,2025-08-22,2025-10-23,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11548,2025-03-27,2025-12-01,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11549,2025-02-10,2025-08-22,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11550,2025-05-09,2025-06-08,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11551,2025-05-15,2025-09-16,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11552,2025-09-05,2025-09-22,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11553,2025-09-18,2025-11-22,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11554,2025-01-05,2025-04-18,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11555,2025-04-07,2025-05-04,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11556,2025-04-10,2025-05-22,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11557,2025-01-01,2025-01-20,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11558,2025-06-20,2025-11-30,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11559,2025-12-10,2025-12-20,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11560,2025-12-09,2025-12-18,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11561,2025-08-01,2025-10-12,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11562,2025-11-18,2025-12-12,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11563,2025-09-10,2025-10-24,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11564,2025-06-25,2025-07-09,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11565,2025-04-25,2025-05-03,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11566,2025-04-12,2025-05-23,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11567,2025-05-13,2025-07-18,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11568,2025-03-04,2025-12-13,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11569,2025-08-01,2025-08-19,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11570,2025-08-19,2025-12-16,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11571,2025-10-01,2025-10-04,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11572,2025-09-11,2025-10-13,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11573,2025-12-12,2025-12-23,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11574,2025-01-21,2025-03-02,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11575,2025-03-21,2025-06-03,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11576,2025-09-28,2025-11-21,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11577,2025-12-26,2025-12-30,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11578,2025-04-14,2025-12-26,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11579,2025-04-26,2025-07-27,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11580,2025-01-20,2025-06-21,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11581,2025-08-02,2025-11-05,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11582,2025-01-22,2025-06-11,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11583,2025-06-16,2025-07-20,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11584,2025-11-16,2025-12-19,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11585,2025-08-22,2025-11-23,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11586,2025-02-07,2025-02-17,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11587,2025-03-08,2025-11-11,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11588,2025-02-01,2025-08-04,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11589,2025-04-30,2025-10-02,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11590,2025-07-09,2025-12-30,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11591,2025-04-13,2025-05-19,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11592,2025-07-31,2025-10-14,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11593,2025-05-25,2025-10-20,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11594,2025-03-14,2025-09-03,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11595,2025-04-13,2025-10-01,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11596,2025-04-13,2025-07-10,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11597,2025-08-08,2025-08-20,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11598,2025-10-20,2025-12-26,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11599,2025-02-07,2025-03-12,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11600,2025-05-14,2025-12-10,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11601,2025-10-21,2025-12-18,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11602,2025-08-03,2025-08-15,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11603,2025-11-14,2025-12-10,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11604,2025-07-27,2025-12-08,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11605,2025-08-11,2025-09-26,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11606,2025-04-27,2025-05-27,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11607,2025-12-17,2025-12-18,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11608,2025-08-10,2025-11-19,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11609,2025-09-21,2025-10-19,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11610,2025-10-22,2025-12-04,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11611,2025-03-06,2025-05-28,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11612,2025-02-19,2025-03-07,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11613,2025-01-31,2025-10-23,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11614,2025-03-20,2025-11-19,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11615,2025-11-20,2025-12-19,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11616,2025-05-05,2025-05-31,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11617,2025-05-31,2025-11-02,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11618,2025-05-07,2025-08-22,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11619,2025-06-27,2025-12-23,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11620,2025-11-02,2025-12-29,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11621,2025-10-31,2025-12-11,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11622,2025-06-10,2025-08-08,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11623,2025-08-09,2025-12-01,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11624,2025-10-22,2025-11-01,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11625,2025-08-07,2025-08-27,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11626,2025-12-03,2025-12-29,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11627,2025-12-07,2025-12-17,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11628,2025-05-29,2025-12-04,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11629,2025-08-25,2025-11-25,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11630,2025-03-08,2025-06-23,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11631,2025-02-25,2025-10-23,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11632,2025-09-22,2025-12-09,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11633,2025-06-03,2025-10-10,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11634,2025-04-03,2025-04-22,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11635,2025-07-04,2025-12-30,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11636,2025-12-15,2025-12-24,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11637,2025-05-12,2025-09-06,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11638,2025-04-19,2025-10-27,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11639,2025-09-23,2025-10-13,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11640,2025-02-22,2025-06-18,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11641,2025-06-22,2025-11-19,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11642,2025-04-15,2025-09-24,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11643,2025-09-08,2025-09-26,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11644,2025-06-21,2025-08-01,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11645,2025-10-15,2025-12-01,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11646,2025-12-03,2025-12-21,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11647,2025-07-20,2025-12-20,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11648,2025-01-26,2025-05-27,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11649,2025-07-16,2025-10-03,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11650,2025-10-31,2025-12-21,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11651,2025-01-12,2025-03-20,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11652,2025-12-06,2025-12-16,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11653,2025-04-07,2025-04-20,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11654,2025-01-20,2025-06-09,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11655,2025-03-19,2025-07-03,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11656,2025-11-16,2025-12-09,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11657,2025-06-04,2025-07-22,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11658,2025-01-12,2025-04-16,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11659,2025-07-09,2025-11-02,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11660,2025-03-10,2025-09-11,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11661,2025-08-03,2025-10-10,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11662,2025-03-05,2025-06-13,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11663,2025-11-19,2025-12-23,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11664,2025-04-21,2025-05-02,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11665,2025-01-20,2025-03-24,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11666,2025-10-30,2025-11-20,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11667,2025-09-09,2025-10-23,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11668,2025-03-22,2025-07-04,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11669,2025-06-09,2025-12-25,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11670,2025-12-02,2025-12-03,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11671,2025-12-20,2025-12-22,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11672,2025-03-09,2025-10-28,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11673,2025-03-28,2025-07-04,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11674,2025-11-09,2025-12-09,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11675,2025-10-03,2025-12-04,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11676,2025-06-14,2025-11-07,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11677,2025-06-28,2025-08-16,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11678,2025-07-01,2025-08-28,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11679,2025-07-22,2025-12-29,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11680,2025-06-04,2025-07-13,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11681,2025-07-18,2025-11-24,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11682,2025-08-07,2025-12-10,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11683,2025-08-25,2025-10-19,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11684,2025-09-23,2025-10-14,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11685,2025-01-25,2025-06-05,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11686,2025-09-06,2025-11-08,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11687,2025-04-12,2025-12-23,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11688,2025-12-13,2025-12-29,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11689,2025-03-15,2025-05-12,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11690,2025-10-25,2025-11-17,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11691,2025-11-09,2025-12-19,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11692,2025-05-05,2025-06-28,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11693,2025-01-10,2025-09-22,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11694,2025-04-25,2025-08-04,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11695,2025-06-07,2025-11-04,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11696,2025-01-14,2025-08-29,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11697,2025-08-11,2025-09-17,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11698,2025-10-10,2025-12-18,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11699,2025-09-24,2025-12-25,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11700,2025-05-20,2025-12-03,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11701,2025-11-25,2025-12-03,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11702,2025-12-07,2025-12-16,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11703,2025-02-07,2025-08-09,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11704,2025-10-15,2025-11-09,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11705,2025-11-10,2025-11-28,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11706,2025-12-16,2025-12-24,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11707,2025-02-04,2025-05-01,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11708,2025-03-28,2025-07-25,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11709,2025-11-03,2025-12-05,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11710,2025-04-12,2025-11-25,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11711,2025-06-30,2025-12-12,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11712,2025-07-02,2025-07-13,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11713,2025-08-15,2025-12-06,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11714,2025-01-28,2025-07-31,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11715,2025-07-14,2025-08-06,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11716,2025-05-29,2025-12-20,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11717,2025-06-10,2025-07-01,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11718,2025-02-23,2025-05-12,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11719,2025-06-08,2025-12-03,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11720,2025-05-03,2025-07-12,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11721,2025-07-09,2025-09-11,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11722,2025-03-10,2025-07-10,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11723,2025-01-23,2025-01-25,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11724,2025-04-17,2025-07-07,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11725,2025-08-12,2025-09-12,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11726,2025-11-01,2025-11-10,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11727,2025-08-27,2025-11-19,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11728,2025-06-16,2025-11-20,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11729,2025-07-05,2025-09-17,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11730,2025-01-15,2025-08-10,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11731,2025-10-11,2025-11-16,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11732,2025-12-13,2025-12-21,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11733,2025-03-16,2025-03-22,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11734,2025-01-02,2025-09-02,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11735,2025-04-07,2025-07-04,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11736,2025-12-07,2025-12-24,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11737,2025-02-20,2025-03-31,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11738,2025-07-15,2025-11-06,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11739,2025-03-06,2025-04-01,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11740,2025-04-26,2025-08-17,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11741,2025-10-10,2025-11-30,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11742,2025-07-23,2025-09-27,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11743,2025-12-11,2025-12-28,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11744,2025-05-14,2025-11-20,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11745,2025-10-19,2025-11-06,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11746,2025-12-19,2025-12-28,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11747,2025-03-30,2025-06-25,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11748,2025-02-20,2025-05-13,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11749,2025-01-09,2025-08-26,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11750,2025-03-07,2025-04-24,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11751,2025-10-04,2025-12-06,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11752,2025-05-26,2025-09-03,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11753,2025-08-31,2025-09-09,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11754,2025-01-19,2025-10-03,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11755,2025-09-11,2025-09-15,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11756,2025-09-25,2025-10-18,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11757,2025-06-22,2025-09-04,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11758,2025-08-01,2025-09-19,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11759,2025-09-30,2025-10-15,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11760,2025-09-27,2025-12-03,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11761,2025-01-04,2025-05-01,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11762,2025-09-14,2025-10-04,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11763,2025-07-22,2025-09-12,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11764,2025-08-24,2025-09-19,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11765,2025-11-19,2025-11-24,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11766,2025-10-07,2025-12-06,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11767,2025-04-20,2025-06-04,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11768,2025-07-13,2025-08-20,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11769,2025-03-19,2025-06-29,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11770,2025-03-20,2025-08-06,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11771,2025-06-09,2025-10-01,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11772,2025-01-16,2025-08-17,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11773,2025-12-20,2025-12-23,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11774,2025-12-29,2025-12-30,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11775,2025-04-02,2025-04-03,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11776,2025-09-18,2025-10-06,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11777,2025-11-21,2025-12-19,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11778,2025-07-11,2025-08-09,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11779,2025-10-30,2025-12-19,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11780,2025-10-09,2025-12-18,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11781,2025-12-18,2025-12-24,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11782,2025-03-31,2025-09-25,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11783,2025-04-13,2025-10-10,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11784,2025-02-08,2025-12-21,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11785,2025-12-06,2025-12-08,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11786,2025-05-20,2025-09-19,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11787,2025-10-14,2025-10-26,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11788,2025-11-27,2025-11-29,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11789,2025-11-27,2025-12-04,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11790,2025-09-09,2025-10-12,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11791,2025-05-19,2025-11-05,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11792,2025-04-15,2025-05-21,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11793,2025-11-13,2025-11-30,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11794,2025-02-14,2025-07-19,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11795,2025-06-27,2025-08-19,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11796,2025-09-25,2025-12-17,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11797,2025-11-07,2025-12-18,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11798,2025-12-11,2025-12-30,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11799,2025-02-13,2025-04-06,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11800,2025-10-10,2025-10-15,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11801,2025-02-10,2025-07-21,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11802,2025-07-07,2025-12-10,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11803,2025-09-21,2025-12-15,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11804,2025-08-26,2025-11-08,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11805,2025-08-26,2025-09-01,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11806,2025-12-08,2025-12-29,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11807,2025-12-13,2025-12-16,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11808,2025-12-24,2025-12-30,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11809,2025-12-11,2025-12-21,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11810,2025-01-18,2025-02-12,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11811,2025-09-12,2025-11-12,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11812,2025-10-01,2025-12-24,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11813,2025-07-23,2025-12-19,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11814,2025-08-12,2025-12-31,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11815,2025-03-28,2025-12-14,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11816,2025-07-21,2025-10-31,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11817,2025-09-30,2025-11-29,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11818,2025-06-18,2025-09-22,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11819,2025-05-15,2025-10-11,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11820,2025-11-22,2025-12-19,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11821,2025-01-22,2025-01-26,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11822,2025-12-29,2025-12-30,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11823,2025-11-26,2025-12-19,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11824,2025-12-04,2025-12-12,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11825,2025-10-19,2025-12-06,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11826,2025-04-04,2025-08-11,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11827,2025-01-20,2025-08-05,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11828,2025-08-02,2025-12-05,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11829,2025-06-06,2025-09-05,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11830,2025-06-28,2025-09-22,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11831,2025-06-24,2025-07-11,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11832,2025-06-23,2025-08-23,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11833,2025-07-13,2025-12-04,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11834,2025-01-07,2025-02-16,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11835,2025-06-10,2025-06-24,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11836,2025-08-02,2025-08-02,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11837,2025-11-04,2025-12-04,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11838,2025-08-07,2025-09-16,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11839,2025-09-18,2025-12-16,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11840,2025-05-22,2025-06-12,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11841,2025-11-24,2025-12-16,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11842,2025-08-06,2025-12-04,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11843,2025-07-03,2025-11-19,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11844,2025-05-22,2025-11-13,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11845,2025-02-07,2025-11-29,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11846,2025-03-28,2025-03-28,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11847,2025-05-18,2025-09-09,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11848,2025-07-22,2025-10-03,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11849,2025-02-11,2025-03-01,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11850,2025-07-11,2025-08-07,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11851,2025-10-16,2025-12-25,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11852,2025-02-11,2025-05-21,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11853,2025-03-18,2025-05-29,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11854,2025-12-28,2025-12-30,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11855,2025-06-27,2025-12-04,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11856,2025-10-06,2025-11-08,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11857,2025-10-22,2025-12-01,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11858,2025-12-26,2025-12-30,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11859,2025-08-17,2025-09-10,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11860,2025-06-27,2025-11-02,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11861,2025-07-15,2025-08-10,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11862,2025-01-02,2025-07-27,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11863,2025-01-19,2025-08-22,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11864,2025-11-22,2025-12-21,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11865,2025-12-25,2025-12-29,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11866,2025-09-26,2025-11-21,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11867,2025-10-11,2025-12-29,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11868,2025-02-10,2025-07-10,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11869,2025-08-22,2025-12-17,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11870,2025-07-15,2025-09-28,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11871,2025-08-25,2025-10-12,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11872,2025-06-04,2025-10-15,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11873,2025-06-25,2025-11-29,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11874,2025-02-23,2025-08-02,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11875,2025-09-29,2025-12-24,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11876,2025-07-18,2025-09-14,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11877,2025-08-01,2025-10-01,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11878,2025-10-14,2025-12-06,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11879,2025-03-26,2025-06-12,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11880,2025-08-31,2025-10-26,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11881,2025-05-15,2025-07-05,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11882,2025-09-10,2025-10-14,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11883,2025-07-30,2025-12-12,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11884,2025-05-06,2025-06-20,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11885,2025-08-07,2025-11-08,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11886,2025-08-10,2025-12-18,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11887,2025-06-12,2025-10-01,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11888,2025-11-10,2025-11-12,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11889,2025-02-11,2025-02-21,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11890,2025-02-26,2025-03-19,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11891,2025-01-22,2025-04-10,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11892,2025-10-19,2025-11-03,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11893,2025-09-23,2025-11-11,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11894,2025-11-22,2025-11-25,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11895,2025-11-01,2025-11-30,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11896,2025-10-20,2025-12-12,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11897,2025-05-20,2025-11-12,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11898,2025-08-28,2025-12-15,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11899,2025-10-16,2025-12-18,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11900,2025-06-01,2025-09-01,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11901,2025-11-01,2025-11-29,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11902,2025-09-16,2025-09-25,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11903,2025-05-31,2025-11-09,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11904,2025-05-02,2025-12-02,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11905,2025-01-06,2025-10-21,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11906,2025-03-20,2025-11-16,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11907,2025-11-19,2025-11-30,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11908,2025-10-01,2025-12-09,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11909,2025-05-23,2025-12-22,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11910,2025-08-23,2025-09-30,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11911,2025-03-17,2025-07-09,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11912,2025-03-10,2025-12-01,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11913,2025-03-14,2025-05-21,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11914,2025-07-19,2025-08-11,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11915,2025-01-16,2025-07-02,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11916,2025-08-05,2025-09-25,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11917,2025-03-04,2025-10-17,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11918,2025-01-03,2025-05-11,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11919,2025-10-03,2025-10-18,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11920,2025-03-01,2025-07-04,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11921,2025-01-20,2025-11-17,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11922,2025-08-28,2025-10-25,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11923,2025-11-03,2025-12-29,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11924,2025-05-20,2025-06-17,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11925,2025-05-04,2025-11-24,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11926,2025-03-13,2025-10-01,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11927,2025-11-02,2025-12-21,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11928,2025-06-11,2025-11-15,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11929,2025-05-16,2025-08-10,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11930,2025-09-15,2025-11-19,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11931,2025-05-21,2025-09-12,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11932,2025-10-20,2025-12-19,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11933,2025-07-04,2025-10-21,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11934,2025-01-04,2025-02-17,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11935,2025-05-15,2025-11-04,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11936,2025-12-18,2025-12-24,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11937,2025-09-23,2025-11-24,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11938,2025-12-22,2025-12-24,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11939,2025-04-10,2025-11-06,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11940,2025-04-20,2025-04-30,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11941,2025-11-16,2025-12-23,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11942,2025-07-19,2025-12-22,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11943,2025-06-23,2025-09-25,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11944,2025-04-26,2025-07-09,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11945,2025-07-19,2025-08-04,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11946,2025-03-07,2025-10-01,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11947,2025-01-03,2025-09-04,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11948,2025-03-23,2025-12-09,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11949,2025-10-28,2025-11-18,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11950,2025-06-14,2025-07-25,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11951,2025-07-28,2025-12-12,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11952,2025-10-29,2025-12-10,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11953,2025-11-14,2025-12-29,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11954,2025-10-18,2025-12-23,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11955,2025-01-10,2025-07-07,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11956,2025-05-09,2025-05-24,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11957,2025-01-29,2025-02-19,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11958,2025-11-05,2025-11-29,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11959,2025-01-28,2025-09-08,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11960,2025-12-20,2025-12-23,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11961,2025-05-31,2025-11-22,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11962,2025-06-07,2025-11-22,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11963,2025-01-07,2025-06-07,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11964,2025-02-15,2025-09-11,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11965,2025-09-07,2025-09-19,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11966,2025-08-16,2025-08-25,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11967,2025-11-26,2025-11-29,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11968,2025-12-27,2025-12-30,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11969,2025-04-23,2025-08-18,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11970,2025-02-03,2025-05-23,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11971,2025-05-29,2025-10-29,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11972,2025-01-12,2025-07-16,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11973,2025-07-27,2025-09-07,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11974,2025-10-18,2025-11-24,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11975,2025-04-25,2025-12-27,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11976,2025-04-26,2025-09-18,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11977,2025-08-03,2025-11-19,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11978,2025-02-17,2025-03-06,Release 24.1,Q1-2025,Plataforma,Servicios Core
+PROJ-11979,2025-08-11,2025-12-05,Release 24.7,Q4-2025,Plataforma,Operaciones
+PROJ-11980,2025-07-28,2025-11-11,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11981,2025-04-29,2025-07-19,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11982,2025-10-15,2025-12-25,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11983,2025-03-24,2025-08-31,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11984,2025-11-27,2025-12-22,Release 24.3,Q2-2025,Datos,Analytics
+PROJ-11985,2025-03-04,2025-05-14,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11986,2025-08-28,2025-10-16,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11987,2025-02-14,2025-04-25,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11988,2025-11-07,2025-11-12,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11989,2025-06-29,2025-11-01,Release 24.9,Q1-2025,Datos,Analytics
+PROJ-11990,2025-01-29,2025-05-22,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11991,2025-01-27,2025-05-04,Release 24.2,Q1-2025,Experiencia Cliente,Digital
+PROJ-11992,2025-03-18,2025-12-25,Release 24.10,Q2-2025,Ciberseguridad,Growth
+PROJ-11993,2025-07-09,2025-09-11,Release 24.6,Q3-2025,Pagos,Digital
+PROJ-11994,2025-02-19,2025-11-07,Release 24.11,Q3-2025,Infra,Operaciones
+PROJ-11995,2025-04-02,2025-05-10,Release 24.5,Q3-2025,Ciberseguridad,Servicios Core
+PROJ-11996,2025-08-29,2025-09-12,Release 24.4,Q2-2025,Infra,Servicios Core
+PROJ-11997,2025-05-04,2025-11-09,Release 24.8,Q4-2025,Experiencia Cliente,Growth
+PROJ-11998,2025-05-08,2025-09-04,Release 24.12,Q4-2025,Pagos,Analytics
+PROJ-11999,2025-08-15,2025-09-14,Release 24.10,Q2-2025,Ciberseguridad,Growth
